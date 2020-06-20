@@ -2,7 +2,7 @@ const axios = require('axios').default
 const fs = require('fs')
 const moment = require('moment')
 
-const url = "https://ussouthcentral.services.azureml.net/workspaces/622eae26a54e4a50b70f2ed980cfda2c/services/298009184b90420b8bd86ef76cab3b0f/execute?api-version=2.0&details=true"
+const url = "https://ussouthcentral.services.azureml.net/workspaces/622eae26a54e4a50b70f2ed980cfda2c/services/b6099d2e6576404596376bc14f41d65e/execute?api-version=2.0&details=true"
 const body = {
     "Inputs": {
         "input1": {
@@ -36,7 +36,7 @@ async function doRequest() {
     try {
         const response = await axios.post(url, body, {
             headers: {
-                'Authorization': 'Bearer tlRtqK5nvxy2BwHIBTSKlU5E3U/lgzu44UC97q+H4s7SZkWgi478MOELSuX9lYWPwj9lYN6bZqaTlOXOj4q/Sw==',
+                'Authorization': 'Bearer e0losjchPPuxZD6o9AO4WmOzTmv/V/myLjOYTtuiH2UOpkkv+vXPMil1LcRCV+arKZ85m2wJgEP1TpIEp9cLOA==',
                 'Content-Type': 'application/json',
                 'Accept': 'application/json'
             }

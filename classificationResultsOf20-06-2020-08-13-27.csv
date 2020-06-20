@@ -1,0 +1,473 @@
+ID_usuario,Genero,Idade,Estado_civil,Atividade_no_site,Pesquisou_eletronicos_12m,Comprou_eletronicos_12m,Pesquisou_midia_digital_18m,Comprou_midia_digital_18m,Forma_pagamento,Adocao_eReader,Scored Probabilities for Class "Early Adopter",Scored Probabilities for Class "Early Majority",Scored Probabilities for Class "Innovator",Scored Probabilities for Class "Late Majority",Scored Labels
+56031,M,57,S,Intermitente,Sim,Sim,Sim,Sim,Transferencia,,0.875,0,0.125,0,Early Adopter
+25913,F,51,C,Intermitente,Sim,Sim,Nao,Nao,Transferencia,,0.75,0.25,0,0,Early Adopter
+19396,M,41,C,Esporadico,Sim,Sim,Sim,Nao,Website,,0,0.125,0,0.875,Late Majority
+93666,M,66,S,Intermitente,Sim,Sim,Sim,Sim,Cartao de credito,,0.5,0,0.375,0.125,Early Adopter
+72282,F,31,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0.375,0,0.625,Late Majority
+64466,M,68,C,Intermitente,Sim,Sim,Sim,Nao,Transferencia,,0.125,0.875,0,0,Early Majority
+76655,F,51,S,Esporadico,Sim,Nao,Nao,Nao,Website,,0,0.25,0,0.75,Late Majority
+48465,F,36,S,Frequente,Sim,Nao,Sim,Nao,Website,,0.75,0.25,0,0,Early Adopter
+19889,M,29,C,Intermitente,Sim,Sim,Sim,Nao,Website,,0.875,0.125,0,0,Early Adopter
+63570,M,61,C,Frequente,Sim,Nao,Sim,Nao,Website,,0,0.875,0.125,0,Early Majority
+63239,M,47,S,Intermitente,Sim,Nao,Sim,Nao,Website,,0.25,0.625,0.125,0,Early Majority
+67603,F,62,S,Intermitente,Sim,Sim,Sim,Nao,Website,,0,0.625,0.25,0.125,Early Majority
+65685,M,32,C,Intermitente,Sim,Nao,Sim,Nao,Transferencia,,0.5,0.125,0,0.375,Early Adopter
+77373,M,17,C,Esporadico,Sim,Nao,Sim,Nao,Cartao de credito,,0,0.8125,0,0.1875,Early Majority
+54239,M,36,S,Intermitente,Sim,Nao,Sim,Sim,Website,,0.25,0,0.375,0.375,Innovator
+55781,M,58,S,Intermitente,Nao,Sim,Sim,Sim,Transferencia,,1,0,0,0,Early Adopter
+19854,F,62,C,Intermitente,Sim,Sim,Sim,Nao,Boleto bancario,,0,1,0,0,Early Majority
+27852,M,37,S,Esporadico,Sim,Nao,Sim,Nao,Transferencia,,0,0.875,0,0.125,Early Majority
+85169,F,28,C,Esporadico,Sim,Nao,Sim,Nao,Boleto bancario,,0,0,0,1,Late Majority
+62492,M,43,C,Esporadico,Sim,Sim,Sim,Sim,Transferencia,,0.375,0.625,0,0,Early Majority
+90254,F,29,C,Esporadico,Sim,Sim,Sim,Nao,Transferencia,,0,0.5,0,0.5,Early Majority
+81277,F,36,S,Intermitente,Sim,Sim,Nao,Nao,Website,,0.875,0.125,0,0,Early Adopter
+15575,M,37,C,Esporadico,Sim,Nao,Sim,Sim,Website,,0.5,0.5,0,0,Early Adopter
+88000,F,56,S,Esporadico,Sim,Nao,Sim,Nao,Boleto bancario,,0,0,0,1,Late Majority
+57301,M,63,C,Esporadico,Sim,Sim,Sim,Sim,Website,,0.5,0.375,0,0.125,Early Adopter
+81776,M,64,C,Esporadico,Sim,Nao,Nao,Nao,Transferencia,,0,0,0.25,0.75,Late Majority
+34642,F,42,S,Intermitente,Sim,Sim,Sim,Sim,Transferencia,,0.625,0.125,0.125,0.125,Early Adopter
+30573,M,54,S,Intermitente,Sim,Nao,Sim,Sim,Website,,0.25,0.75,0,0,Early Majority
+92903,F,37,C,Esporadico,Sim,Nao,Sim,Sim,Transferencia,,0.875,0,0.125,0,Early Adopter
+97263,M,29,C,Intermitente,Sim,Nao,Sim,Nao,Transferencia,,0.625,0,0,0.375,Early Adopter
+36740,M,65,S,Intermitente,Sim,Sim,Sim,Sim,Cartao de credito,,0.5,0,0.375,0.125,Early Adopter
+50414,M,48,C,Intermitente,Sim,Nao,Sim,Nao,Cartao de credito,,0.475,0.525,0,0,Early Majority
+59901,F,32,C,Esporadico,Sim,Nao,Sim,Sim,Transferencia,,0.75,0.125,0.125,0,Early Adopter
+27135,M,67,C,Esporadico,Sim,Nao,Sim,Nao,Cartao de credito,,0,0,0.125,0.875,Late Majority
+75778,M,66,C,Esporadico,Sim,Nao,Sim,Nao,Cartao de credito,,0,0,0.125,0.875,Late Majority
+25250,M,59,S,Esporadico,Sim,Nao,Sim,Sim,Transferencia,,0.375,0.625,0,0,Early Majority
+76172,F,47,S,Esporadico,Sim,Sim,Nao,Sim,Cartao de credito,,0.625,0.25,0.125,0,Early Adopter
+68362,F,47,C,Esporadico,Sim,Sim,Sim,Sim,Website,,0,1,0,0,Early Majority
+59361,M,65,C,Esporadico,Sim,Nao,Nao,Nao,Transferencia,,0,0,0.25,0.75,Late Majority
+75104,F,43,C,Esporadico,Sim,Nao,Sim,Nao,Transferencia,,0.375,0.125,0,0.5,Late Majority
+97899,F,50,S,Esporadico,Sim,Sim,Nao,Sim,Boleto bancario,,0.75,0,0,0.25,Early Adopter
+53506,M,37,C,Esporadico,Sim,Nao,Sim,Sim,Website,,0.5,0.5,0,0,Early Adopter
+56204,F,25,S,Esporadico,Sim,Nao,Nao,Nao,Cartao de credito,,0,0.5,0,0.5,Early Majority
+67586,M,51,C,Esporadico,Sim,Nao,Nao,Sim,Cartao de credito,,0.5,0.375,0.125,0,Early Adopter
+92932,M,26,C,Intermitente,Sim,Nao,Sim,Nao,Website,,0.75,0.25,0,0,Early Adopter
+70473,M,50,S,Frequente,Sim,Nao,Nao,Nao,Website,,0.375,0.25,0.125,0.25,Early Adopter
+65341,F,32,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0.375,0,0.625,Late Majority
+20555,F,32,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0.375,0,0.625,Late Majority
+83754,F,36,S,Frequente,Sim,Nao,Sim,Nao,Website,,0.75,0.25,0,0,Early Adopter
+69809,M,47,S,Intermitente,Sim,Nao,Nao,Sim,Cartao de credito,,0.375,0,0.5,0.125,Innovator
+15065,M,48,S,Intermitente,Sim,Nao,Nao,Sim,Cartao de credito,,0.375,0,0.5,0.125,Innovator
+19303,F,49,S,Esporadico,Sim,Nao,Sim,Sim,Boleto bancario,,0.875,0,0,0.125,Early Adopter
+97649,M,35,S,Intermitente,Sim,Nao,Sim,Sim,Website,,0.25,0,0.375,0.375,Innovator
+68265,M,57,S,Intermitente,Nao,Sim,Sim,Sim,Transferencia,,1,0,0,0,Early Adopter
+22144,F,32,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0.375,0,0.625,Late Majority
+35417,M,28,C,Intermitente,Nao,Nao,Sim,Nao,Boleto bancario,,0.5,0.25,0,0.25,Early Adopter
+92068,M,55,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0.375,0,0.625,Late Majority
+16994,F,67,C,Frequente,Nao,Sim,Nao,Sim,Website,,0.125,0,0.125,0.75,Late Majority
+63405,F,55,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0.5,0,0.5,Early Majority
+14799,F,55,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0.5,0,0.5,Early Majority
+74414,M,64,C,Esporadico,Sim,Sim,Sim,Nao,Boleto bancario,,0,0,0.5,0.5,Innovator
+52869,M,62,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0,0.25,0.75,Late Majority
+50777,F,34,S,Intermitente,Sim,Sim,Sim,Nao,Website,,0.625,0.25,0.125,0,Early Adopter
+66884,M,67,S,Esporadico,Sim,Nao,Sim,Sim,Transferencia,,0.375,0.5,0,0.125,Early Majority
+14507,M,48,S,Intermitente,Sim,Nao,Sim,Nao,Website,,0.25,0.625,0.125,0,Early Majority
+96545,F,61,S,Intermitente,Sim,Sim,Sim,Nao,Website,,0,0.625,0.25,0.125,Early Majority
+28983,F,64,C,Esporadico,Sim,Sim,Sim,Sim,Boleto bancario,,0.75,0.125,0,0.125,Early Adopter
+87211,F,65,S,Esporadico,Sim,Nao,Sim,Sim,Website,,0.25,0.375,0,0.375,Early Majority
+13408,M,68,C,Esporadico,Sim,Nao,Nao,Nao,Transferencia,,0,0,0.25,0.75,Late Majority
+57746,M,43,S,Esporadico,Sim,Sim,Sim,Sim,Transferencia,,0.25,0.75,0,0,Early Majority
+87341,F,57,S,Intermitente,Sim,Nao,Nao,Sim,Website,,0.5,0.25,0.25,0,Early Adopter
+55308,F,29,S,Intermitente,Sim,Nao,Sim,Sim,Transferencia,,0.75,0,0.25,0,Early Adopter
+75706,F,31,C,Esporadico,Sim,Nao,Sim,Nao,Boleto bancario,,0,0,0,1,Late Majority
+76970,M,47,S,Esporadico,Sim,Nao,Sim,Nao,Cartao de credito,,0,0.125,0,0.875,Late Majority
+24719,F,23,S,Esporadico,Sim,Nao,Nao,Nao,Cartao de credito,,0,0.5,0,0.5,Early Majority
+55084,F,67,C,Intermitente,Sim,Nao,Nao,Nao,Website,,0,0.625,0,0.375,Early Majority
+87205,M,53,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0.25,0,0.75,Late Majority
+18228,F,52,C,Esporadico,Sim,Nao,Sim,Nao,Transferencia,,0.25,0.125,0,0.625,Late Majority
+13880,M,48,S,Esporadico,Sim,Nao,Sim,Sim,Website,,0.375,0.625,0,0,Early Majority
+78234,M,23,C,Intermitente,Sim,Sim,Sim,Sim,Website,,0,0,1,0,Innovator
+26499,F,33,S,Esporadico,Sim,Sim,Sim,Nao,Website,,0,0.25,0,0.75,Late Majority
+26056,M,45,S,Esporadico,Sim,Sim,Sim,Nao,Website,,0,0,0,1,Late Majority
+56380,M,43,S,Esporadico,Sim,Sim,Sim,Nao,Transferencia,,0,0.5,0,0.5,Early Majority
+14730,M,52,C,Frequente,Sim,Sim,Sim,Nao,Transferencia,,0.375,0.25,0.25,0.125,Early Adopter
+31365,F,36,S,Intermitente,Sim,Sim,Sim,Nao,Website,,0.625,0.25,0.125,0,Early Adopter
+81704,M,19,C,Esporadico,Sim,Sim,Sim,Sim,Website,,0.75,0,0.25,0,Early Adopter
+20677,F,46,S,Esporadico,Sim,Nao,Sim,Nao,Boleto bancario,,0,0,0,1,Late Majority
+22923,F,50,S,Esporadico,Sim,Sim,Nao,Sim,Boleto bancario,,0.75,0,0,0.25,Early Adopter
+15706,F,53,S,Esporadico,Sim,Nao,Sim,Sim,Cartao de credito,,0.875,0.125,0,0,Early Adopter
+58150,M,46,S,Esporadico,Sim,Nao,Sim,Sim,Website,,0.25,0.75,0,0,Early Majority
+16788,M,38,S,Esporadico,Sim,Nao,Sim,Sim,Transferencia,,0.5,0.5,0,0,Early Adopter
+71801,F,30,C,Esporadico,Sim,Nao,Sim,Sim,Website,,0.625,0.25,0.125,0,Early Adopter
+48662,M,30,C,Esporadico,Sim,Nao,Sim,Sim,Website,,0.75,0.125,0.125,0,Early Adopter
+80090,F,32,C,Esporadico,Sim,Nao,Sim,Nao,Boleto bancario,,0,0.125,0,0.875,Late Majority
+45776,M,59,C,Frequente,Sim,Nao,Sim,Nao,Website,,0.125,0.75,0.125,0,Early Majority
+92374,F,68,C,Intermitente,Sim,Nao,Nao,Nao,Website,,0,0.625,0,0.375,Early Majority
+77028,F,43,C,Intermitente,Sim,Sim,Sim,Sim,Website,,0,0.375,0.5,0.125,Innovator
+49617,F,63,C,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0,0,1,Late Majority
+15810,F,64,C,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0,0,1,Late Majority
+85343,F,67,C,Frequente,Nao,Sim,Nao,Sim,Website,,0.125,0,0.125,0.75,Late Majority
+73118,F,57,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0.375,0,0.625,Late Majority
+76548,F,52,C,Intermitente,Sim,Sim,Nao,Nao,Transferencia,,0.75,0.25,0,0,Early Adopter
+78179,F,54,C,Esporadico,Sim,Sim,Sim,Nao,Transferencia,,0,0,0,1,Late Majority
+84132,F,22,C,Intermitente,Sim,Sim,Sim,Nao,Cartao de credito,,0.475,0.15,0.375,0,Early Adopter
+79105,F,28,C,Intermitente,Sim,Sim,Sim,Sim,Boleto bancario,,0,0,1,0,Innovator
+49019,M,48,S,Esporadico,Sim,Nao,Sim,Nao,Cartao de credito,,0,0.125,0,0.875,Late Majority
+89985,F,51,C,Intermitente,Nao,Sim,Sim,Nao,Cartao de credito,,0.125,0.25,0,0.625,Late Majority
+42424,F,57,S,Intermitente,Sim,Nao,Nao,Sim,Website,,0.5,0.25,0.25,0,Early Adopter
+67645,M,61,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0,0.25,0.75,Late Majority
+93347,F,21,S,Esporadico,Sim,Nao,Nao,Nao,Cartao de credito,,0,0.8125,0.125,0.0625,Early Majority
+16908,F,52,C,Esporadico,Sim,Sim,Sim,Nao,Transferencia,,0,0,0,1,Late Majority
+86453,F,62,C,Intermitente,Nao,Sim,Sim,Nao,Transferencia,,0.125,0.625,0.125,0.125,Early Majority
+98350,F,40,S,Frequente,Sim,Nao,Sim,Nao,Website,,0.75,0.25,0,0,Early Adopter
+51247,M,35,S,Esporadico,Sim,Nao,Sim,Nao,Transferencia,,0,0.875,0,0.125,Early Majority
+13668,F,52,S,Esporadico,Sim,Sim,Nao,Sim,Boleto bancario,,0.75,0,0,0.25,Early Adopter
+90322,M,44,S,Esporadico,Sim,Sim,Sim,Sim,Website,,0.125,0.875,0,0,Early Majority
+32371,M,44,C,Esporadico,Sim,Sim,Sim,Sim,Transferencia,,0.75,0.25,0,0,Early Adopter
+44173,M,47,S,Esporadico,Sim,Nao,Sim,Nao,Cartao de credito,,0,0.125,0,0.875,Late Majority
+76558,F,49,C,Esporadico,Sim,Nao,Sim,Nao,Transferencia,,0.375,0.125,0,0.5,Late Majority
+54936,M,46,S,Intermitente,Sim,Sim,Sim,Nao,Website,,0.375,0.625,0,0,Early Majority
+84631,F,58,S,Intermitente,Sim,Nao,Nao,Sim,Website,,0.625,0.25,0.125,0,Early Adopter
+67067,M,33,C,Esporadico,Sim,Sim,Sim,Sim,Website,,0.875,0,0.125,0,Early Adopter
+22402,M,23,C,Intermitente,Sim,Nao,Sim,Nao,Website,,0.5,0.125,0.375,0,Early Adopter
+12532,F,48,S,Esporadico,Sim,Sim,Nao,Sim,Cartao de credito,,0.625,0.125,0.125,0.125,Early Adopter
+64950,M,39,S,Esporadico,Sim,Nao,Sim,Nao,Transferencia,,0,0.75,0,0.25,Early Majority
+24212,M,65,C,Esporadico,Sim,Nao,Sim,Nao,Cartao de credito,,0,0,0.125,0.875,Late Majority
+86962,F,26,S,Intermitente,Sim,Nao,Sim,Sim,Transferencia,,0.625,0,0.375,0,Early Adopter
+65788,M,31,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0.375,0,0.625,Late Majority
+61926,M,17,C,Esporadico,Sim,Nao,Sim,Nao,Cartao de credito,,0,0.8125,0,0.1875,Early Majority
+81747,M,26,C,Esporadico,Sim,Nao,Nao,Nao,Boleto bancario,,0,0,0,1,Late Majority
+58818,M,24,S,Esporadico,Sim,Nao,Sim,Nao,Transferencia,,0,0.625,0,0.375,Early Majority
+61668,M,54,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0.25,0,0.75,Late Majority
+10153,M,46,C,Frequente,Sim,Sim,Nao,Sim,Website,,0.125,0.125,0.625,0.125,Innovator
+75722,M,47,S,Esporadico,Sim,Nao,Sim,Sim,Website,,0.125,0.875,0,0,Early Majority
+69601,F,62,C,Esporadico,Sim,Sim,Sim,Sim,Boleto bancario,,0.75,0.125,0,0.125,Early Adopter
+88778,F,63,C,Esporadico,Sim,Sim,Sim,Nao,Website,,0,0,0,1,Late Majority
+49903,F,42,C,Intermitente,Sim,Sim,Sim,Sim,Website,,0,0.25,0.625,0.125,Innovator
+63669,F,49,S,Esporadico,Sim,Sim,Sim,Sim,Transferencia,,0.75,0.125,0,0.125,Early Adopter
+15769,M,64,C,Esporadico,Sim,Sim,Sim,Sim,Website,,0.5,0.375,0,0.125,Early Adopter
+85097,M,49,S,Intermitente,Sim,Nao,Nao,Sim,Cartao de credito,,0.125,0,0.75,0.125,Innovator
+67767,M,52,C,Frequente,Sim,Sim,Sim,Nao,Transferencia,,0.375,0.25,0.25,0.125,Early Adopter
+44210,M,20,C,Intermitente,Sim,Sim,Sim,Sim,Website,,0,0,1,0,Innovator
+33192,F,64,C,Frequente,Nao,Sim,Nao,Sim,Website,,0.125,0,0.125,0.75,Late Majority
+43668,F,41,S,Intermitente,Sim,Sim,Sim,Sim,Transferencia,,0.625,0.125,0.125,0.125,Early Adopter
+51348,M,31,C,Esporadico,Sim,Sim,Sim,Sim,Website,,0.75,0,0.25,0,Early Adopter
+40481,F,39,S,Intermitente,Sim,Sim,Nao,Nao,Website,,0.875,0.125,0,0,Early Adopter
+20176,F,50,S,Intermitente,Sim,Sim,Sim,Nao,Transferencia,,0.375,0.25,0.25,0.125,Early Adopter
+52881,F,53,C,Esporadico,Sim,Sim,Sim,Nao,Transferencia,,0,0,0,1,Late Majority
+75183,F,60,C,Esporadico,Sim,Sim,Sim,Sim,Boleto bancario,,0.875,0.125,0,0,Early Adopter
+46740,M,58,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0.125,0,0.875,Late Majority
+85498,M,52,C,Esporadico,Sim,Sim,Sim,Nao,Website,,0,0,0,1,Late Majority
+94008,M,47,C,Intermitente,Sim,Nao,Sim,Nao,Cartao de credito,,0.475,0.525,0,0,Early Majority
+52945,M,42,S,Esporadico,Sim,Nao,Nao,Sim,Transferencia,,0.5,0.5,0,0,Early Adopter
+41667,F,49,C,Intermitente,Sim,Sim,Sim,Sim,Transferencia,,0.375,0.125,0.25,0.25,Early Adopter
+18023,F,49,C,Esporadico,Sim,Nao,Sim,Sim,Transferencia,,0.875,0.125,0,0,Early Adopter
+57474,F,26,C,Esporadico,Sim,Nao,Sim,Sim,Website,,0.5,0.375,0.125,0,Early Adopter
+65355,F,21,S,Esporadico,Sim,Nao,Sim,Sim,Website,,0.75,0.25,0,0,Early Adopter
+64352,M,19,C,Esporadico,Sim,Nao,Sim,Sim,Boleto bancario,,0.5,0.375,0.125,0,Early Adopter
+22479,M,61,S,Esporadico,Sim,Sim,Sim,Sim,Transferencia,,0.375,0.625,0,0,Early Majority
+23135,M,31,C,Intermitente,Sim,Nao,Sim,Nao,Transferencia,,0.5,0.125,0,0.375,Early Adopter
+88666,F,26,C,Esporadico,Sim,Sim,Sim,Nao,Transferencia,,0,0.625,0,0.375,Early Majority
+51218,F,31,C,Intermitente,Sim,Sim,Sim,Sim,Boleto bancario,,0,0,1,0,Innovator
+95316,F,28,C,Esporadico,Sim,Nao,Sim,Sim,Website,,0.625,0.25,0.125,0,Early Adopter
+99694,F,46,S,Esporadico,Sim,Sim,Nao,Nao,Transferencia,,0,0.125,0,0.875,Late Majority
+84559,M,36,C,Intermitente,Sim,Sim,Sim,Nao,Transferencia,,0.625,0.25,0,0.125,Early Adopter
+24084,M,49,S,Esporadico,Sim,Nao,Sim,Nao,Cartao de credito,,0,0.125,0,0.875,Late Majority
+89880,F,38,C,Esporadico,Sim,Nao,Sim,Sim,Transferencia,,1,0,0,0,Early Adopter
+46503,M,41,S,Esporadico,Sim,Nao,Nao,Sim,Transferencia,,0.5,0.5,0,0,Early Adopter
+32561,M,65,S,Esporadico,Sim,Nao,Sim,Sim,Transferencia,,0.375,0.5,0,0.125,Early Majority
+49906,M,47,S,Intermitente,Sim,Sim,Sim,Nao,Website,,0.25,0.625,0.125,0,Early Majority
+80705,M,36,S,Intermitente,Sim,Nao,Sim,Sim,Website,,0.25,0,0.375,0.375,Innovator
+69195,M,48,S,Intermitente,Sim,Nao,Sim,Nao,Website,,0.25,0.625,0.125,0,Early Majority
+46081,M,28,C,Intermitente,Sim,Sim,Sim,Nao,Website,,0.875,0.125,0,0,Early Adopter
+86311,F,43,C,Esporadico,Sim,Sim,Sim,Sim,Website,,0.125,0.875,0,0,Early Majority
+25755,F,67,S,Esporadico,Sim,Nao,Sim,Sim,Website,,0.25,0.375,0,0.375,Early Majority
+22138,M,54,S,Intermitente,Sim,Nao,Sim,Sim,Website,,0.25,0.75,0,0,Early Majority
+61082,F,51,S,Esporadico,Sim,Sim,Sim,Sim,Transferencia,,0.875,0.125,0,0,Early Adopter
+85084,M,50,C,Esporadico,Sim,Nao,Nao,Sim,Cartao de credito,,0.5,0.375,0.125,0,Early Adopter
+50209,F,44,C,Esporadico,Sim,Nao,Sim,Nao,Transferencia,,0.375,0.125,0,0.5,Late Majority
+73685,M,61,S,Esporadico,Sim,Sim,Sim,Sim,Transferencia,,0.375,0.625,0,0,Early Majority
+52205,M,47,S,Esporadico,Sim,Sim,Sim,Nao,Website,,0,0,0,1,Late Majority
+83940,F,47,S,Esporadico,Sim,Sim,Nao,Nao,Transferencia,,0,0.125,0,0.875,Late Majority
+72143,F,50,S,Esporadico,Sim,Nao,Nao,Nao,Website,,0,0.375,0,0.625,Late Majority
+85198,M,59,C,Frequente,Sim,Nao,Sim,Nao,Website,,0.125,0.75,0.125,0,Early Majority
+21099,M,57,S,Intermitente,Sim,Sim,Sim,Nao,Cartao de credito,,0.25,0.75,0,0,Early Majority
+75222,M,36,S,Esporadico,Sim,Nao,Sim,Sim,Transferencia,,0.5,0.5,0,0,Early Adopter
+43243,F,37,S,Intermitente,Sim,Sim,Sim,Nao,Website,,0.625,0.25,0.125,0,Early Adopter
+23768,F,53,S,Esporadico,Sim,Sim,Sim,Nao,Cartao de credito,,0,0.3125,0,0.6875,Late Majority
+64405,M,31,C,Intermitente,Nao,Nao,Sim,Nao,Boleto bancario,,0.5,0.25,0,0.25,Early Adopter
+36067,M,64,C,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0,0.5,0.5,Innovator
+72270,M,17,C,Esporadico,Sim,Sim,Sim,Sim,Website,,0.625,0,0.375,0,Early Adopter
+14980,F,59,S,Esporadico,Sim,Nao,Sim,Nao,Boleto bancario,,0,0,0.125,0.875,Late Majority
+49866,M,61,C,Frequente,Sim,Nao,Sim,Nao,Website,,0,0.875,0.125,0,Early Majority
+25355,F,62,C,Esporadico,Sim,Sim,Sim,Nao,Website,,0,0,0,1,Late Majority
+12978,F,25,C,Intermitente,Sim,Sim,Sim,Nao,Cartao de credito,,0.725,0.15,0.125,0,Early Adopter
+92483,F,53,C,Intermitente,Nao,Sim,Sim,Nao,Cartao de credito,,0.125,0.25,0,0.625,Late Majority
+79388,F,45,C,Intermitente,Sim,Sim,Sim,Sim,Transferencia,,0.25,0,0.5,0.25,Innovator
+38881,F,35,S,Esporadico,Sim,Nao,Sim,Nao,Transferencia,,0,0.875,0,0.125,Early Majority
+63427,F,51,S,Esporadico,Sim,Sim,Nao,Sim,Transferencia,,0.75,0.125,0,0.125,Early Adopter
+17451,M,41,C,Esporadico,Sim,Sim,Sim,Sim,Transferencia,,0.375,0.625,0,0,Early Majority
+48696,F,53,S,Intermitente,Sim,Sim,Nao,Nao,Transferencia,,0.75,0.25,0,0,Early Adopter
+89831,F,58,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0.125,0,0.875,Late Majority
+26109,M,46,C,Esporadico,Sim,Sim,Sim,Sim,Boleto bancario,,0.75,0.125,0,0.125,Early Adopter
+34406,M,34,C,Esporadico,Sim,Nao,Sim,Nao,Boleto bancario,,0,0.125,0,0.875,Late Majority
+93483,M,48,C,Frequente,Sim,Sim,Sim,Nao,Transferencia,,0.375,0.25,0.25,0.125,Early Adopter
+96893,F,28,C,Esporadico,Sim,Nao,Sim,Sim,Transferencia,,0.625,0.125,0.25,0,Early Adopter
+76169,M,33,C,Intermitente,Sim,Nao,Sim,Nao,Transferencia,,0.5,0.125,0,0.375,Early Adopter
+99037,F,50,C,Intermitente,Nao,Sim,Sim,Nao,Cartao de credito,,0.125,0.25,0,0.625,Late Majority
+52292,M,22,S,Esporadico,Sim,Sim,Sim,Nao,Transferencia,,0,0.75,0.125,0.125,Early Majority
+27878,M,66,C,Esporadico,Sim,Sim,Sim,Sim,Website,,0.5,0.375,0,0.125,Early Adopter
+15614,F,51,S,Esporadico,Sim,Sim,Nao,Sim,Cartao de credito,,0.625,0.125,0.125,0.125,Early Adopter
+57412,M,59,S,Intermitente,Sim,Sim,Sim,Sim,Transferencia,,0.875,0,0.125,0,Early Adopter
+85005,M,54,S,Intermitente,Sim,Sim,Sim,Nao,Cartao de credito,,0.475,0.525,0,0,Early Majority
+79896,F,66,C,Frequente,Nao,Sim,Nao,Sim,Website,,0.125,0,0.125,0.75,Late Majority
+82338,M,42,S,Esporadico,Sim,Sim,Sim,Nao,Transferencia,,0,0.5,0,0.5,Early Majority
+78096,F,25,C,Intermitente,Sim,Sim,Sim,Nao,Cartao de credito,,0.725,0.15,0.125,0,Early Adopter
+30121,F,66,C,Frequente,Nao,Sim,Nao,Sim,Website,,0.125,0,0.125,0.75,Late Majority
+70731,F,51,S,Esporadico,Sim,Sim,Nao,Sim,Boleto bancario,,0.75,0,0,0.25,Early Adopter
+42786,M,34,C,Esporadico,Sim,Nao,Sim,Sim,Website,,0.875,0.125,0,0,Early Adopter
+46836,F,56,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0.5,0,0.5,Early Majority
+15286,F,52,C,Esporadico,Sim,Sim,Sim,Nao,Transferencia,,0,0,0,1,Late Majority
+53876,F,65,C,Frequente,Sim,Nao,Nao,Nao,Boleto bancario,,0.25,0.375,0.125,0.25,Early Majority
+88598,M,40,C,Esporadico,Sim,Sim,Sim,Sim,Transferencia,,0.75,0.25,0,0,Early Adopter
+27193,M,17,C,Esporadico,Sim,Nao,Sim,Nao,Cartao de credito,,0,0.8125,0,0.1875,Early Majority
+62087,F,50,S,Esporadico,Sim,Sim,Nao,Nao,Transferencia,,0,0.25,0,0.75,Late Majority
+90476,F,31,C,Esporadico,Sim,Nao,Sim,Sim,Transferencia,,0.625,0.125,0.25,0,Early Adopter
+78795,F,57,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0.375,0,0.625,Late Majority
+26464,F,46,C,Esporadico,Sim,Nao,Sim,Sim,Transferencia,,0.875,0.125,0,0,Early Adopter
+52421,F,37,S,Esporadico,Sim,Sim,Sim,Nao,Website,,0,0.25,0,0.75,Late Majority
+12784,F,44,C,Intermitente,Sim,Sim,Sim,Sim,Website,,0,0.375,0.5,0.125,Innovator
+15999,F,61,C,Intermitente,Sim,Sim,Sim,Nao,Boleto bancario,,0,1,0,0,Early Majority
+10246,F,19,S,Esporadico,Sim,Nao,Sim,Sim,Website,,0.75,0.25,0,0,Early Adopter
+55848,F,53,S,Esporadico,Sim,Sim,Sim,Nao,Cartao de credito,,0,0.3125,0,0.6875,Late Majority
+67818,M,47,C,Intermitente,Sim,Nao,Nao,Nao,Cartao de credito,,0.5,0.25,0,0.25,Early Adopter
+74055,F,49,S,Esporadico,Sim,Nao,Sim,Sim,Boleto bancario,,0.875,0,0,0.125,Early Adopter
+38140,F,50,C,Esporadico,Sim,Sim,Sim,Nao,Transferencia,,0,0,0,1,Late Majority
+90036,F,52,S,Esporadico,Sim,Sim,Nao,Sim,Transferencia,,0.75,0.125,0,0.125,Early Adopter
+93955,M,42,C,Esporadico,Sim,Sim,Sim,Sim,Transferencia,,0.375,0.625,0,0,Early Majority
+76591,M,61,S,Esporadico,Sim,Nao,Sim,Nao,Transferencia,,0,0,0.125,0.875,Late Majority
+97981,M,42,S,Esporadico,Sim,Sim,Sim,Nao,Transferencia,,0,0.5,0,0.5,Early Majority
+80485,F,67,C,Intermitente,Sim,Nao,Nao,Nao,Website,,0,0.625,0,0.375,Early Majority
+78255,M,62,C,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0,0.625,0.375,Innovator
+66185,F,33,S,Esporadico,Sim,Sim,Sim,Nao,Website,,0,0.25,0,0.75,Late Majority
+61803,F,49,C,Esporadico,Sim,Nao,Sim,Nao,Transferencia,,0.375,0.125,0,0.5,Late Majority
+37110,F,59,S,Intermitente,Sim,Sim,Sim,Nao,Website,,0.125,0.5,0.375,0,Early Majority
+62033,M,56,C,Esporadico,Sim,Nao,Sim,Sim,Website,,0.375,0.625,0,0,Early Majority
+65242,M,45,S,Esporadico,Sim,Nao,Nao,Sim,Transferencia,,0.5,0.5,0,0,Early Adopter
+28689,F,64,C,Intermitente,Nao,Sim,Sim,Nao,Transferencia,,0.25,0.5,0.125,0.125,Early Majority
+80584,M,34,S,Esporadico,Sim,Sim,Sim,Sim,Transferencia,,0.875,0.125,0,0,Early Adopter
+92866,M,30,C,Esporadico,Sim,Nao,Sim,Sim,Website,,0.75,0.125,0.125,0,Early Adopter
+90469,M,45,S,Esporadico,Sim,Sim,Sim,Sim,Website,,0.125,0.875,0,0,Early Majority
+79042,F,52,S,Esporadico,Sim,Sim,Nao,Sim,Transferencia,,0.75,0.125,0,0.125,Early Adopter
+81919,F,38,S,Intermitente,Sim,Sim,Sim,Nao,Website,,0.625,0.25,0.125,0,Early Adopter
+34616,M,23,S,Esporadico,Sim,Nao,Sim,Nao,Transferencia,,0,0.625,0,0.375,Early Majority
+25205,M,68,C,Esporadico,Sim,Nao,Sim,Nao,Cartao de credito,,0,0,0.125,0.875,Late Majority
+29995,M,67,S,Intermitente,Sim,Nao,Nao,Sim,Cartao de credito,,0,0,1,0,Innovator
+44901,M,55,C,Esporadico,Sim,Nao,Sim,Sim,Website,,0.375,0.625,0,0,Early Majority
+32695,F,34,S,Esporadico,Sim,Nao,Sim,Nao,Transferencia,,0,0.875,0,0.125,Early Majority
+29389,M,61,S,Esporadico,Sim,Sim,Sim,Sim,Transferencia,,0.375,0.625,0,0,Early Majority
+45400,F,40,C,Intermitente,Sim,Sim,Sim,Sim,Website,,0,0.25,0.75,0,Innovator
+70962,F,35,S,Intermitente,Sim,Sim,Nao,Nao,Website,,0.875,0.125,0,0,Early Adopter
+23009,M,34,S,Esporadico,Sim,Nao,Sim,Sim,Transferencia,,0.875,0.125,0,0,Early Adopter
+69935,M,28,C,Intermitente,Sim,Nao,Sim,Nao,Transferencia,,0.625,0,0,0.375,Early Adopter
+36662,F,33,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0.375,0,0.625,Late Majority
+58585,F,66,C,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0,0,1,Late Majority
+62717,M,45,C,Frequente,Sim,Sim,Nao,Sim,Website,,0.125,0.125,0.625,0.125,Innovator
+11319,M,32,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0.375,0,0.625,Late Majority
+89513,M,44,C,Esporadico,Sim,Sim,Sim,Sim,Transferencia,,0.75,0.25,0,0,Early Adopter
+16840,M,27,C,Intermitente,Sim,Nao,Sim,Nao,Transferencia,,0.5,0,0.125,0.375,Early Adopter
+25593,F,68,C,Intermitente,Sim,Nao,Nao,Nao,Website,,0,0.625,0,0.375,Early Majority
+38013,M,54,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0.25,0,0.75,Late Majority
+47666,F,51,S,Esporadico,Sim,Nao,Nao,Nao,Website,,0,0.25,0,0.75,Late Majority
+30377,M,43,C,Esporadico,Sim,Sim,Sim,Nao,Website,,0,0.125,0,0.875,Late Majority
+29644,M,47,S,Frequente,Sim,Nao,Nao,Nao,Website,,0.25,0.375,0.125,0.25,Early Majority
+97401,F,56,C,Esporadico,Sim,Nao,Sim,Sim,Website,,0.625,0.375,0,0,Early Adopter
+35350,M,36,S,Intermitente,Sim,Nao,Sim,Sim,Website,,0.25,0,0.375,0.375,Innovator
+59348,F,37,S,Intermitente,Sim,Sim,Nao,Nao,Website,,0.875,0.125,0,0,Early Adopter
+84250,F,31,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0.375,0,0.625,Late Majority
+65693,M,46,S,Frequente,Sim,Nao,Nao,Nao,Website,,0.625,0.125,0,0.25,Early Adopter
+12539,F,50,S,Intermitente,Sim,Sim,Sim,Nao,Transferencia,,0.375,0.25,0.25,0.125,Early Adopter
+80502,F,37,S,Frequente,Sim,Nao,Sim,Nao,Website,,0.75,0.25,0,0,Early Adopter
+15246,M,62,C,Esporadico,Sim,Sim,Sim,Nao,Boleto bancario,,0,0,0.625,0.375,Innovator
+27978,F,38,S,Intermitente,Sim,Sim,Sim,Sim,Transferencia,,0.75,0,0.25,0,Early Adopter
+12369,M,45,C,Intermitente,Sim,Sim,Sim,Sim,Website,,0,0.375,0.5,0.125,Innovator
+83814,F,63,C,Intermitente,Sim,Sim,Sim,Nao,Boleto bancario,,0.125,0.875,0,0,Early Majority
+33371,M,49,S,Intermitente,Sim,Sim,Sim,Nao,Website,,0.375,0.5,0.125,0,Early Majority
+47720,M,36,C,Intermitente,Sim,Sim,Sim,Nao,Transferencia,,0.625,0.25,0,0.125,Early Adopter
+95027,F,36,S,Esporadico,Sim,Sim,Sim,Nao,Website,,0,0.25,0,0.75,Late Majority
+62258,M,64,S,Esporadico,Sim,Nao,Sim,Sim,Transferencia,,0.375,0.5,0,0.125,Early Majority
+92296,M,51,C,Frequente,Sim,Sim,Sim,Nao,Transferencia,,0.375,0.25,0.25,0.125,Early Adopter
+22477,M,65,C,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0,0.5,0.5,Innovator
+67467,M,47,C,Intermitente,Sim,Nao,Sim,Nao,Cartao de credito,,0.475,0.525,0,0,Early Majority
+45505,M,53,S,Intermitente,Sim,Nao,Sim,Sim,Website,,0.25,0.75,0,0,Early Majority
+54261,F,63,C,Frequente,Sim,Nao,Nao,Nao,Boleto bancario,,0.25,0.375,0.125,0.25,Early Majority
+79934,M,69,S,Intermitente,Sim,Sim,Sim,Sim,Cartao de credito,,0.5,0,0.375,0.125,Early Adopter
+72889,M,63,C,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0,0.5,0.5,Innovator
+66037,F,49,S,Esporadico,Sim,Nao,Sim,Sim,Boleto bancario,,0.875,0,0,0.125,Early Adopter
+50272,M,37,S,Esporadico,Sim,Nao,Sim,Nao,Transferencia,,0,0.875,0,0.125,Early Majority
+70317,F,54,S,Intermitente,Sim,Sim,Nao,Nao,Transferencia,,0.75,0.25,0,0,Early Adopter
+25680,M,56,S,Intermitente,Sim,Sim,Sim,Nao,Cartao de credito,,0.25,0.75,0,0,Early Majority
+77555,M,68,S,Intermitente,Sim,Nao,Nao,Sim,Cartao de credito,,0,0,1,0,Innovator
+19429,M,64,C,Esporadico,Sim,Sim,Sim,Sim,Website,,0.5,0.375,0,0.125,Early Adopter
+12524,F,27,C,Intermitente,Sim,Sim,Sim,Sim,Boleto bancario,,0,0,1,0,Innovator
+93580,M,45,S,Esporadico,Sim,Sim,Sim,Sim,Website,,0.125,0.875,0,0,Early Majority
+54445,F,33,C,Intermitente,Sim,Nao,Sim,Nao,Website,,0.75,0.25,0,0,Early Adopter
+20458,M,68,C,Esporadico,Sim,Nao,Nao,Nao,Transferencia,,0,0,0.25,0.75,Late Majority
+53642,M,67,S,Intermitente,Sim,Sim,Sim,Sim,Cartao de credito,,0.5,0,0.375,0.125,Early Adopter
+59160,M,58,S,Esporadico,Sim,Nao,Sim,Sim,Transferencia,,0.375,0.625,0,0,Early Majority
+29387,M,26,C,Esporadico,Sim,Nao,Nao,Nao,Boleto bancario,,0,0,0,1,Late Majority
+75473,M,47,S,Esporadico,Sim,Sim,Sim,Nao,Website,,0,0,0,1,Late Majority
+93435,M,44,C,Frequente,Sim,Sim,Nao,Sim,Website,,0.125,0.125,0.625,0.125,Innovator
+44042,M,27,C,Intermitente,Sim,Nao,Sim,Nao,Website,,0.75,0.25,0,0,Early Adopter
+29936,M,39,C,Intermitente,Sim,Sim,Sim,Nao,Transferencia,,0.625,0.25,0,0.125,Early Adopter
+96112,M,58,S,Esporadico,Sim,Nao,Sim,Nao,Transferencia,,0,0,0,1,Late Majority
+24454,M,47,S,Esporadico,Sim,Sim,Sim,Nao,Website,,0,0,0,1,Late Majority
+68250,M,59,S,Esporadico,Sim,Nao,Sim,Nao,Transferencia,,0,0,0.125,0.875,Late Majority
+37033,F,35,C,Frequente,Sim,Sim,Nao,Nao,Boleto bancario,,1,0,0,0,Early Adopter
+39308,M,54,C,Esporadico,Sim,Nao,Sim,Sim,Website,,0.375,0.625,0,0,Early Majority
+64692,M,27,C,Intermitente,Sim,Nao,Sim,Nao,Website,,0.75,0.25,0,0,Early Adopter
+20313,M,52,S,Frequente,Sim,Sim,Sim,Sim,Website,,0,0.125,0.5,0.375,Innovator
+82405,M,30,C,Intermitente,Sim,Sim,Sim,Nao,Website,,0.875,0.125,0,0,Early Adopter
+79836,F,31,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0.375,0,0.625,Late Majority
+69814,F,65,C,Esporadico,Sim,Sim,Sim,Nao,Website,,0,0,0,1,Late Majority
+70355,M,45,C,Intermitente,Sim,Sim,Sim,Sim,Website,,0,0.375,0.5,0.125,Innovator
+63799,M,44,S,Intermitente,Sim,Nao,Sim,Nao,Website,,0.375,0.625,0,0,Early Majority
+84850,M,45,C,Intermitente,Sim,Sim,Sim,Sim,Website,,0,0.375,0.5,0.125,Innovator
+57914,F,52,S,Esporadico,Sim,Sim,Sim,Sim,Transferencia,,0.875,0.125,0,0,Early Adopter
+15083,F,51,S,Esporadico,Sim,Sim,Nao,Sim,Cartao de credito,,0.625,0.125,0.125,0.125,Early Adopter
+13172,M,25,C,Esporadico,Sim,Nao,Nao,Nao,Boleto bancario,,0,0,0,1,Late Majority
+25980,M,29,C,Intermitente,Sim,Sim,Sim,Nao,Website,,0.875,0.125,0,0,Early Adopter
+93674,F,57,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0.375,0,0.625,Late Majority
+61887,M,35,S,Esporadico,Sim,Sim,Sim,Sim,Transferencia,,0.75,0.25,0,0,Early Adopter
+44360,F,54,C,Intermitente,Sim,Sim,Nao,Nao,Transferencia,,0.75,0.25,0,0,Early Adopter
+11925,F,35,S,Esporadico,Sim,Nao,Sim,Nao,Transferencia,,0,0.875,0,0.125,Early Majority
+25404,F,62,C,Frequente,Sim,Nao,Nao,Nao,Boleto bancario,,0.25,0.375,0.125,0.25,Early Majority
+63476,M,47,S,Intermitente,Sim,Nao,Nao,Sim,Cartao de credito,,0.375,0,0.5,0.125,Innovator
+49470,M,58,S,Esporadico,Sim,Sim,Sim,Sim,Transferencia,,0.375,0.625,0,0,Early Majority
+50462,M,36,C,Intermitente,Sim,Sim,Sim,Nao,Transferencia,,0.625,0.25,0,0.125,Early Adopter
+67881,M,51,S,Frequente,Sim,Sim,Sim,Sim,Website,,0.125,0,0.5,0.375,Innovator
+62131,M,17,C,Esporadico,Sim,Nao,Sim,Nao,Cartao de credito,,0,0.8125,0,0.1875,Early Majority
+34213,M,29,C,Intermitente,Nao,Nao,Sim,Nao,Boleto bancario,,0.5,0.25,0,0.25,Early Adopter
+37652,M,69,S,Intermitente,Sim,Nao,Nao,Sim,Cartao de credito,,0,0,1,0,Innovator
+47884,M,37,C,Esporadico,Sim,Nao,Sim,Nao,Boleto bancario,,0,0,0,1,Late Majority
+37805,F,56,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0.5,0,0.5,Early Majority
+54220,F,53,S,Esporadico,Sim,Nao,Sim,Sim,Cartao de credito,,0.875,0.125,0,0,Early Adopter
+40666,M,22,C,Intermitente,Sim,Sim,Sim,Sim,Website,,0,0,1,0,Innovator
+45265,M,25,S,Esporadico,Sim,Sim,Sim,Nao,Transferencia,,0,0.625,0,0.375,Early Majority
+58527,M,70,C,Intermitente,Sim,Sim,Sim,Nao,Transferencia,,0.125,0.875,0,0,Early Majority
+57937,M,28,C,Esporadico,Sim,Nao,Sim,Sim,Website,,0.75,0.125,0.125,0,Early Adopter
+73642,F,50,C,Intermitente,Sim,Sim,Nao,Nao,Transferencia,,0.75,0.25,0,0,Early Adopter
+36277,F,18,S,Esporadico,Sim,Nao,Sim,Sim,Website,,0.75,0.125,0.125,0,Early Adopter
+85451,M,52,C,Esporadico,Sim,Sim,Sim,Nao,Website,,0,0,0,1,Late Majority
+25156,F,47,S,Esporadico,Sim,Sim,Nao,Nao,Transferencia,,0,0.125,0,0.875,Late Majority
+57202,F,53,C,Esporadico,Sim,Nao,Sim,Nao,Transferencia,,0.25,0.125,0,0.625,Late Majority
+38763,M,33,C,Esporadico,Sim,Nao,Sim,Nao,Boleto bancario,,0,0.125,0,0.875,Late Majority
+92336,F,34,C,Frequente,Sim,Sim,Nao,Nao,Boleto bancario,,1,0,0,0,Early Adopter
+54303,F,64,C,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0,0,1,Late Majority
+14026,F,64,C,Intermitente,Nao,Sim,Sim,Nao,Transferencia,,0.25,0.5,0.125,0.125,Early Majority
+33261,M,18,C,Esporadico,Sim,Sim,Sim,Sim,Website,,0.625,0,0.375,0,Early Adopter
+42167,F,56,C,Esporadico,Sim,Nao,Sim,Sim,Website,,0.625,0.375,0,0,Early Adopter
+13957,M,44,C,Esporadico,Sim,Sim,Sim,Sim,Transferencia,,0.75,0.25,0,0,Early Adopter
+77370,M,22,S,Esporadico,Sim,Sim,Sim,Nao,Transferencia,,0,0.75,0.125,0.125,Early Majority
+89231,F,52,S,Esporadico,Sim,Sim,Sim,Sim,Transferencia,,0.875,0.125,0,0,Early Adopter
+49408,M,34,C,Esporadico,Sim,Sim,Sim,Sim,Website,,0.875,0,0.125,0,Early Adopter
+60321,F,48,S,Intermitente,Sim,Sim,Sim,Nao,Transferencia,,0.25,0.375,0.25,0.125,Early Majority
+17505,F,57,S,Esporadico,Sim,Nao,Sim,Sim,Cartao de credito,,0.875,0.125,0,0,Early Adopter
+13308,F,54,S,Esporadico,Sim,Nao,Sim,Sim,Cartao de credito,,0.875,0.125,0,0,Early Adopter
+80117,F,46,C,Intermitente,Sim,Sim,Sim,Sim,Transferencia,,0.25,0,0.5,0.25,Innovator
+28382,F,49,S,Esporadico,Sim,Nao,Sim,Sim,Boleto bancario,,0.875,0,0,0.125,Early Adopter
+26623,F,44,C,Esporadico,Sim,Sim,Sim,Sim,Website,,0.125,0.875,0,0,Early Majority
+14109,F,65,C,Frequente,Nao,Sim,Nao,Sim,Website,,0.125,0,0.125,0.75,Late Majority
+29168,F,53,S,Esporadico,Sim,Nao,Nao,Nao,Website,,0.125,0.25,0,0.625,Late Majority
+89822,F,63,C,Esporadico,Sim,Sim,Sim,Sim,Boleto bancario,,0.75,0.125,0,0.125,Early Adopter
+87800,F,63,C,Intermitente,Sim,Sim,Sim,Nao,Boleto bancario,,0.125,0.875,0,0,Early Majority
+36704,F,55,S,Intermitente,Sim,Sim,Nao,Nao,Transferencia,,0.625,0.375,0,0,Early Adopter
+26584,F,34,C,Intermitente,Sim,Nao,Sim,Nao,Website,,0.75,0.25,0,0,Early Adopter
+21792,M,25,C,Esporadico,Sim,Nao,Nao,Nao,Boleto bancario,,0,0,0,1,Late Majority
+86915,F,31,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0.375,0,0.625,Late Majority
+55886,F,54,S,Intermitente,Sim,Sim,Nao,Nao,Transferencia,,0.75,0.25,0,0,Early Adopter
+35863,M,17,C,Esporadico,Sim,Sim,Sim,Sim,Website,,0.625,0,0.375,0,Early Adopter
+88479,M,34,C,Esporadico,Sim,Nao,Sim,Sim,Website,,0.875,0.125,0,0,Early Adopter
+70624,M,54,C,Esporadico,Sim,Nao,Nao,Sim,Cartao de credito,,0.5,0.375,0.125,0,Early Adopter
+82082,F,27,S,Intermitente,Sim,Nao,Sim,Sim,Transferencia,,0.75,0,0.25,0,Early Adopter
+41234,F,56,S,Esporadico,Sim,Nao,Sim,Nao,Boleto bancario,,0,0,0,1,Late Majority
+18836,F,51,C,Esporadico,Sim,Sim,Sim,Nao,Transferencia,,0,0,0,1,Late Majority
+82587,M,55,C,Esporadico,Sim,Sim,Sim,Nao,Website,,0,0,0,1,Late Majority
+35993,M,44,S,Esporadico,Sim,Sim,Sim,Sim,Transferencia,,0.375,0.625,0,0,Early Majority
+52083,M,47,S,Intermitente,Sim,Sim,Sim,Nao,Website,,0.25,0.625,0.125,0,Early Majority
+26771,F,68,S,Esporadico,Sim,Nao,Sim,Sim,Website,,0.25,0.375,0,0.375,Early Majority
+79906,M,44,C,Esporadico,Sim,Sim,Sim,Nao,Website,,0,0,0,1,Late Majority
+46208,M,69,C,Intermitente,Sim,Sim,Sim,Nao,Transferencia,,0.125,0.875,0,0,Early Majority
+59086,M,61,C,Esporadico,Sim,Sim,Sim,Nao,Boleto bancario,,0,0,0.625,0.375,Innovator
+91499,M,47,C,Esporadico,Sim,Sim,Sim,Sim,Boleto bancario,,0.75,0.125,0,0.125,Early Adopter
+45785,M,49,C,Intermitente,Sim,Nao,Sim,Nao,Cartao de credito,,0.475,0.525,0,0,Early Majority
+44531,M,52,S,Intermitente,Sim,Nao,Sim,Sim,Website,,0.25,0.75,0,0,Early Majority
+97494,M,32,S,Esporadico,Sim,Sim,Sim,Sim,Transferencia,,1,0,0,0,Early Adopter
+30952,M,42,S,Esporadico,Sim,Nao,Nao,Sim,Transferencia,,0.5,0.5,0,0,Early Adopter
+51513,M,25,C,Intermitente,Sim,Nao,Sim,Nao,Transferencia,,0.5,0,0.125,0.375,Early Adopter
+98275,F,49,C,Intermitente,Nao,Sim,Sim,Nao,Cartao de credito,,0.125,0.25,0,0.625,Late Majority
+38844,M,57,S,Esporadico,Sim,Nao,Sim,Nao,Transferencia,,0,0.125,0,0.875,Late Majority
+44534,M,30,C,Esporadico,Sim,Nao,Sim,Sim,Website,,0.75,0.125,0.125,0,Early Adopter
+62080,F,54,C,Esporadico,Sim,Nao,Sim,Sim,Website,,0.625,0.375,0,0,Early Adopter
+85874,F,43,C,Esporadico,Sim,Nao,Sim,Nao,Transferencia,,0.375,0.125,0,0.5,Late Majority
+19015,M,44,C,Intermitente,Sim,Sim,Sim,Sim,Website,,0,0.375,0.5,0.125,Innovator
+46304,M,33,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0.375,0,0.625,Late Majority
+22561,F,45,C,Esporadico,Sim,Nao,Sim,Sim,Transferencia,,0.875,0.125,0,0,Early Adopter
+32227,F,63,C,Intermitente,Nao,Sim,Sim,Nao,Transferencia,,0.25,0.5,0.125,0.125,Early Majority
+77172,M,51,S,Frequente,Sim,Sim,Sim,Sim,Website,,0.125,0,0.5,0.375,Innovator
+99190,M,25,S,Esporadico,Sim,Nao,Sim,Nao,Transferencia,,0,0.625,0,0.375,Early Majority
+48018,F,62,C,Esporadico,Sim,Sim,Sim,Nao,Website,,0,0,0,1,Late Majority
+92784,M,68,S,Esporadico,Sim,Nao,Sim,Sim,Transferencia,,0.375,0.5,0,0.125,Early Majority
+47073,F,28,C,Esporadico,Sim,Sim,Sim,Nao,Transferencia,,0,0.625,0,0.375,Early Majority
+62523,F,53,S,Esporadico,Sim,Sim,Sim,Nao,Cartao de credito,,0,0.3125,0,0.6875,Late Majority
+50551,M,64,C,Esporadico,Sim,Sim,Sim,Nao,Boleto bancario,,0,0,0.5,0.5,Innovator
+36437,F,44,S,Esporadico,Sim,Nao,Sim,Nao,Boleto bancario,,0,0,0,1,Late Majority
+25354,F,40,C,Esporadico,Sim,Nao,Sim,Sim,Transferencia,,1,0,0,0,Early Adopter
+45460,F,52,S,Esporadico,Sim,Sim,Sim,Nao,Cartao de credito,,0,0.3125,0,0.6875,Late Majority
+18272,F,29,C,Esporadico,Sim,Sim,Sim,Nao,Transferencia,,0,0.5,0,0.5,Early Majority
+42885,M,22,C,Esporadico,Sim,Nao,Sim,Sim,Boleto bancario,,0.5,0.375,0.125,0,Early Adopter
+79050,M,66,C,Intermitente,Sim,Sim,Sim,Nao,Transferencia,,0.125,0.875,0,0,Early Majority
+77950,F,30,C,Esporadico,Sim,Nao,Sim,Sim,Transferencia,,0.625,0.125,0.25,0,Early Adopter
+93846,M,45,S,Esporadico,Sim,Sim,Sim,Nao,Transferencia,,0,0,0,1,Late Majority
+70720,F,45,S,Esporadico,Sim,Nao,Sim,Nao,Boleto bancario,,0,0,0,1,Late Majority
+45100,M,69,S,Intermitente,Sim,Nao,Nao,Sim,Cartao de credito,,0,0,1,0,Innovator
+58704,M,43,C,Frequente,Sim,Sim,Nao,Sim,Website,,0.125,0.125,0.625,0.125,Innovator
+10591,F,24,C,Intermitente,Sim,Sim,Sim,Nao,Cartao de credito,,0.725,0.15,0.125,0,Early Adopter
+81628,M,51,C,Esporadico,Sim,Sim,Sim,Nao,Website,,0,0,0,1,Late Majority
+37085,M,26,C,Intermitente,Sim,Nao,Sim,Nao,Transferencia,,0.5,0,0.125,0.375,Early Adopter
+43730,M,34,C,Esporadico,Sim,Sim,Sim,Sim,Website,,0.875,0,0.125,0,Early Adopter
+45512,F,40,S,Intermitente,Sim,Sim,Sim,Sim,Transferencia,,0.625,0.125,0.25,0,Early Adopter
+98200,F,32,C,Intermitente,Sim,Nao,Sim,Nao,Website,,0.875,0.125,0,0,Early Adopter
+31131,F,30,C,Esporadico,Sim,Nao,Sim,Nao,Boleto bancario,,0,0,0,1,Late Majority
+22299,M,58,S,Intermitente,Sim,Sim,Sim,Nao,Cartao de credito,,0.25,0.75,0,0,Early Majority
+55610,F,56,C,Esporadico,Sim,Nao,Sim,Sim,Website,,0.625,0.375,0,0,Early Adopter
+10791,M,42,C,Esporadico,Sim,Sim,Sim,Nao,Website,,0,0.125,0,0.875,Late Majority
+31265,M,22,C,Esporadico,Sim,Nao,Sim,Sim,Boleto bancario,,0.5,0.375,0.125,0,Early Adopter
+43219,F,46,S,Intermitente,Sim,Sim,Sim,Nao,Transferencia,,0.5,0.125,0.25,0.125,Early Adopter
+76881,M,44,S,Esporadico,Sim,Sim,Sim,Sim,Transferencia,,0.375,0.625,0,0,Early Majority
+88795,M,52,C,Esporadico,Sim,Nao,Nao,Sim,Cartao de credito,,0.5,0.375,0.125,0,Early Adopter
+40012,M,45,C,Intermitente,Sim,Nao,Nao,Nao,Cartao de credito,,0.75,0,0,0.25,Early Adopter
+13107,M,58,S,Intermitente,Sim,Sim,Sim,Sim,Transferencia,,0.875,0,0.125,0,Early Adopter
+28029,F,67,C,Frequente,Nao,Sim,Nao,Sim,Website,,0.125,0,0.125,0.75,Late Majority
+19419,F,45,S,Esporadico,Sim,Nao,Sim,Nao,Boleto bancario,,0,0,0,1,Late Majority
+94865,M,50,C,Esporadico,Sim,Sim,Sim,Sim,Boleto bancario,,1,0,0,0,Early Adopter
+35783,M,58,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0.125,0,0.875,Late Majority
+55075,F,45,C,Intermitente,Sim,Sim,Sim,Sim,Transferencia,,0.25,0,0.5,0.25,Innovator
+51964,M,61,S,Intermitente,Nao,Sim,Sim,Sim,Transferencia,,0.875,0,0,0.125,Early Adopter
+24468,F,50,C,Esporadico,Sim,Sim,Sim,Nao,Transferencia,,0,0,0,1,Late Majority
+19016,M,33,S,Esporadico,Sim,Sim,Sim,Sim,Transferencia,,0.875,0.125,0,0,Early Adopter
+91208,M,32,S,Esporadico,Sim,Nao,Sim,Nao,Website,,0,0.375,0,0.625,Late Majority
+84566,M,55,C,Esporadico,Sim,Nao,Sim,Sim,Website,,0.375,0.625,0,0,Early Majority
+81945,F,32,C,Frequente,Sim,Sim,Nao,Nao,Boleto bancario,,1,0,0,0,Early Adopter
+89520,M,50,S,Frequente,Sim,Nao,Nao,Nao,Website,,0.375,0.25,0.125,0.25,Early Adopter
+50695,F,64,S,Esporadico,Sim,Nao,Sim,Sim,Website,,0.25,0.375,0,0.375,Early Majority
+35169,M,37,C,Esporadico,Sim,Nao,Sim,Nao,Boleto bancario,,0,0,0,1,Late Majority
+58325,M,36,S,Esporadico,Sim,Nao,Sim,Sim,Transferencia,,0.5,0.5,0,0,Early Adopter
+61278,M,49,S,Esporadico,Sim,Nao,Sim,Sim,Website,,0.375,0.625,0,0,Early Majority
+93730,M,25,S,Esporadico,Sim,Nao,Sim,Nao,Transferencia,,0,0.625,0,0.375,Early Majority
+22171,F,34,C,Frequente,Sim,Sim,Nao,Nao,Boleto bancario,,1,0,0,0,Early Adopter
+23677,F,62,C,Frequente,Sim,Nao,Nao,Nao,Boleto bancario,,0.25,0.375,0.125,0.25,Early Majority
+13296,M,49,C,Esporadico,Sim,Sim,Sim,Sim,Boleto bancario,,0.875,0.125,0,0,Early Adopter
+13443,M,45,S,Esporadico,Sim,Sim,Sim,Sim,Website,,0.125,0.875,0,0,Early Majority
+63959,M,44,C,Intermitente,Sim,Nao,Nao,Nao,Cartao de credito,,0.875,0,0,0.125,Early Adopter
+97362,F,43,C,Esporadico,Sim,Nao,Sim,Nao,Transferencia,,0.375,0.125,0,0.5,Late Majority
+73187,F,68,C,Frequente,Nao,Sim,Nao,Sim,Website,,0.125,0,0.125,0.75,Late Majority
+69715,F,50,S,Esporadico,Sim,Sim,Nao,Sim,Transferencia,,0.625,0.125,0,0.25,Early Adopter
+38914,M,48,C,Intermitente,Sim,Nao,Nao,Nao,Cartao de credito,,0.5,0.25,0,0.25,Early Adopter
+14202,F,51,C,Esporadico,Sim,Sim,Sim,Nao,Transferencia,,0,0,0,1,Late Majority
+45102,M,60,S,Esporadico,Sim,Nao,Sim,Sim,Transferencia,,0.375,0.625,0,0,Early Majority
+96393,F,24,S,Esporadico,Sim,Nao,Nao,Nao,Cartao de credito,,0,0.5,0,0.5,Early Majority
+40897,M,23,C,Intermitente,Sim,Sim,Sim,Sim,Website,,0,0,1,0,Innovator
+23653,F,36,S,Esporadico,Sim,Nao,Sim,Nao,Transferencia,,0,0.875,0,0.125,Early Majority
